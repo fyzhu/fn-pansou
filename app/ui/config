@@ -1,7 +1,7 @@
 {
     ".url": {
         "pansou.Application": {
-            "title": "Pansou",
+            "title": "PanSou",
             "icon": "images/icon_{0}.png",
             "type": "url",
             "protocol": "http",
