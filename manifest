@@ -5,6 +5,10 @@ desc                  = PanSou是一个高性能的网盘资源搜索API服务�
 arch                  = x86_64
 source                = thirdparty
 maintainer            = fyzhu
+maintainer_url        = https://github.com/fyzhu
 distributor           = fyzhu
 desktop_uidir         = ui
 desktop_applaunchname = pansou.Application
+
+service_port          = 8080
+checkport             = true
