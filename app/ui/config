@@ -1,12 +1,12 @@
 {
     ".url": {
         "pansou.Application": {
-            "title": "{display_name}",
+            "title": "Pansou",
             "icon": "images/icon_{0}.png",
             "type": "url",
             "protocol": "http",
-            "port": "{port}",
-            "url": "/{url-path}",
+            "port": "805",
+            "url": "/",
             "allUsers": false
         }
     }
